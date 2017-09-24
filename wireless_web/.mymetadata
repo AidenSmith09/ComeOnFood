@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="wireless_web"
+  id="myeclipse.1336360424171"
+  context-root="/wireless_web"
+  j2ee-spec="5.0"
+  archive="wireless_web.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
